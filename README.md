@@ -1,0 +1,5 @@
+- Implement HotelFinder agent using ballerina/ai with WSO2 model provider
+- Add searchHotels tool to query hotels by city with price, rating, and amenities
+- Add checkAvailability tool to verify hotel availability and total pricing
+- Expose chat endpoint via ai:Listener at POST /hotelFinderAssistant/chat
+- Define Hotel and Availability record types
